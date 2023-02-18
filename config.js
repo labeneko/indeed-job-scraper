@@ -14,7 +14,7 @@ const defaults = {
 		"post-date" 	   : "span.date",
 		"job-salary"       : ["div.salary-snippet-container" , "div.estimated-salary-container"]
 	},
-	"base-URL"  : "https://www.indeed.com/",
+	"base-URL"  : "https://jp.indeed.com/",
 	"max-pages" : 5,
 	"verbose"   : true
 }
